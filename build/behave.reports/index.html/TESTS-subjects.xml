@@ -1,0 +1,15 @@
+<testsuite name="subjects.Verify the Mandate Subjects for Computer Science Course in UCM" tests="1" errors="0" failures="0" skipped="0" time="3.574485" timestamp="2024-06-16T16:36:04.630250" hostname="DESKTOP-3PEM23T"><testcase classname="subjects.Verify the Mandate Subjects for Computer Science Course in UCM" name="Go to Computer Science Program page and Validate mandate subjects" status="passed" time="3.574485"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: Go to Computer Science Program page and Validate mandate subjects
+    Given Navigate to the "Computer Science" Program and Click on "View Courses" ... passed in 3.565s
+    Then Verify if there are mandate courses in "Computer Science" ... passed in 0.010s
+
+@scenario.end
+--------------------------------------------------------------------------------
+
+Captured stdout:
+Switched to window: E4B7ED55BEE42A0E9571B0C5D87487A3
+
+]]>
+</system-out></testcase></testsuite>

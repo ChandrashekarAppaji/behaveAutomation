@@ -1,0 +1,9 @@
+16/06/2024 04:35:44 PM: INFO: logger: log: ====== WebDriver manager ======
+16/06/2024 04:35:46 PM: INFO: logger: log: Get LATEST chromedriver version for google-chrome
+16/06/2024 04:35:46 PM: INFO: logger: log: Get LATEST chromedriver version for google-chrome
+16/06/2024 04:35:46 PM: INFO: logger: log: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+16/06/2024 04:35:52 PM: INFO: home_page: navigate_to_homepage: Home page of UCM loaded successfully
+16/06/2024 04:35:52 PM: INFO: login_step: impl_bk: UCM website loaded successfully
+16/06/2024 04:35:54 PM: INFO: home_page: access_course_list: Clicking Academics Button
+16/06/2024 04:36:01 PM: INFO: login_step: impl_bk: Total programs found: 330
+16/06/2024 04:36:02 PM: INFO: subjects_page: navigate_to_subjects: Page Loaded Successfully

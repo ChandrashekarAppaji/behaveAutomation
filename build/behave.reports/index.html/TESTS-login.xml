@@ -1,0 +1,21 @@
+<testsuite name="login.Verify the UCM College's Master Program" tests="2" errors="0" failures="0" skipped="0" time="11.805185" timestamp="2024-06-16T16:36:01.039086" hostname="DESKTOP-3PEM23T"><testcase classname="login.Verify the UCM College's Master Program" name="Hit UCM Website and get list of Courses available in this University" status="passed" time="11.789545"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: Hit UCM Website and get list of Courses available in this University
+    Given Launch the chrome driver and navigate to Official site of UCM ... passed in 3.432s
+    Then Look for available courses list under "UCM Programs" and get the list of it ... passed in 8.357s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase><testcase classname="login.Verify the UCM College's Master Program" name="Validate Whether Computer Science is available in UCM" status="passed" time="0.01564"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: Validate Whether Computer Science is available in UCM
+    Given List of available courses in UCM ... passed in 0.016s
+    Then Validate that "Computer Science" is available as part of Masters Program ... passed in 0.000s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>

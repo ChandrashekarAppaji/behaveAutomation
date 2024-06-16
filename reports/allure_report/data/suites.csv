@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jun 16 14:12:18 CDT 2024","Sun Jun 16 14:12:18 CDT 2024","15","","","","","","Validate Whether Computer Science is available in UCM",""
+"passed","Sun Jun 16 14:11:58 CDT 2024","Sun Jun 16 14:12:18 CDT 2024","19553","","","","","","Hit UCM Website and get list of Courses available in this University",""
+"passed","Sun Jun 16 14:12:18 CDT 2024","Sun Jun 16 14:13:04 CDT 2024","45866","","","","","","Go to Computer Science Program page and Validate mandate subjects",""
